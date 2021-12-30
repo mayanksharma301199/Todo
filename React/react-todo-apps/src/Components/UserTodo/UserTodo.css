@@ -1,0 +1,128 @@
+.nav-div{
+
+    width: 100%;
+    height: 50px;
+    background-color: rgba(0, 0, 0, 0.25);
+
+}
+
+.float-left{
+
+    margin-left: 15px;
+    margin-top: 13.5px;
+    margin-bottom: 0px;
+    float: left;
+    font-size: x-large;
+    font-weight: bolder;
+    color: black;
+
+}
+
+.float-right{
+
+    margin-right: 15px;
+    margin-top: 13.5px;
+    margin-bottom: 0px;
+    float: right;
+    font-size: x-large;
+    font-weight: bolder;
+    color: black;
+
+}
+
+.main-content-div{
+
+    margin: auto;
+    margin-top: 3%;
+    /* border: 2px solid black; */
+    padding: 5px;
+    width: fit-content;
+    height: fit-content;
+    text-align: center;
+
+}
+
+.input-todo{
+
+    margin-bottom: 50px;
+    height: 50px;
+    width: 35.5rem;
+    font-size: x-large;
+    outline-color: cornflowerblue;
+    border-radius: 5px;
+    font-weight: bold;
+
+}
+
+.todo-button{
+
+    margin-top: 10px;
+    margin-bottom: 5px;
+    margin-left: 15px;
+    height: 40px;
+    width: 80px;
+    font-weight: bold;
+    background-color: lightseagreen;
+    border-radius: 5px;
+    font-size: medium;
+
+}
+
+.basic-todo{
+
+    width: fit-content;
+    height: fit-content;
+    display: flex;
+    padding: 4px;
+    box-shadow: 1px 1px 1px 1px rgba(174, 157, 157, 0.6);
+
+}
+
+.todo-checkbox{
+
+    margin: 0%;
+    width: 1.5rem;
+    height: 1.5rem;
+    /* box-shadow: 1px 1px 1px 1px rgba(174, 157, 157, 0.6); */
+    
+
+}
+
+.img-cls{
+
+    width: 1.5rem;
+    height: 1.5rem;
+    margin: 1%;
+    margin-top: 0%;
+    margin-right: 0%;
+    /* box-shadow: 1px 1px 1px 1px rgba(174, 157, 157, 0.6); */
+
+}
+
+.todo-content{
+
+    margin: 1%;
+    margin-top: 0%;
+    margin-right: 0%;
+    margin-bottom: 0%;
+    width: 30.5rem;
+    /* box-shadow: 1px 1px 1px 1px rgba(174, 157, 157, 0.6); */
+    padding-left: 5px;
+    font-size: large;
+    color: black;
+    font-weight: unset;
+    text-align: start;
+    overflow-wrap: break-word;
+
+}
+
+ul{
+    list-style:none;
+    margin: 0%;
+    padding: 0%;
+}
+
+/* li{
+    margin: 0%;
+    padding: 0%;
+} */
